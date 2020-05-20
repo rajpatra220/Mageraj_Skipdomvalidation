@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Skip DOM Validation
+ *
+ * @package Mageraj_Skipdomvalidation
+ * @author Rajesh Patra <rajpatra220@gmail.com>
+ * @copyright 2020-2030 Oleg Koval
+ * @license OSL-3.0, AFL-3.0
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Mageraj_Skipdomvalidation" setup_version="0.0.1"/>
+</config>
